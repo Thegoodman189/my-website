@@ -1,0 +1,40 @@
+img {
+    height: 50%;
+    width: 50%;
+}
+
+.about {
+    font-size: medium;
+    background-color: rgb(57, 190, 234)
+}
+
+.me {
+
+    color: rgb(29, 3, 106);
+}
+
+.kleur {
+    color: rgb(3, 14, 225)
+}
+
+nav {
+    background-color: rgb(57, 190, 234);
+    display:inline inline-block;
+    text-align: center; 
+}
+
+
+
+body {
+    background-color: rgb(85, 137, 251);
+}
+
+h1 {
+    color: rgb(0, 24, 72);
+
+}
+
+b {
+    color: rgb(0, 2, 128);
+    font-size: large
+}
